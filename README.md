@@ -15,3 +15,6 @@ HOW TO RUN
 
 
 youtube video: https://youtu.be/BG3zeeNe0V8 
+
+
+<img width="583" height="764" alt="image" src="https://github.com/user-attachments/assets/8ea3dda7-ab78-4673-b997-3de0f60776a4" />
